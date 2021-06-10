@@ -1,6 +1,6 @@
  <div>
   <a href="https://github.com/luislimait">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luislimait&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luislimait&show_icons=true&theme=flowers&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislimait&layout=compact&langs_count=16&theme=flowers"/>
 </div>
 <div style="display: inline_block"><br>
