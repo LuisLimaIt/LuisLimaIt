@@ -1,4 +1,4 @@
-## Oieee! Sou o Luis, seja bem-vindo(a)! 😄
+## Olá! Sou o Luis, seja bem-vindo(a)! 😄
 
 <div>
   <a href="https://github.com/luislimait">
